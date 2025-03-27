@@ -1,19 +1,19 @@
 
 ![Alt text](Assets/Customer_support_cover_image.png)
 
-### **1. Project Title**  
+## **1. Project Title**  
 **Customer Support Analytics Dashboard**
 
 
 
-### **2. Objective or Problem Statement**  
+## **2. Objective or Problem Statement**  
 **Objective**: The goal of this project was to create an interactive dashboard to analyze customer support performance across departments, agents, and locations, enabling actionable insights for improving service quality and efficiency.  
 
 **Problem Statement**: Organizations often face challenges in monitoring customer support metrics such as call volumes, unresolved calls, and satisfaction ratings. This dashboard was designed to centralize data and provide a clear overview of performance trends to identify areas for improvement.
 
 
 
-### **3. Data Source**  
+## **3. Data Source**  
 **Description**: The dataset included detailed call logs, customer feedback scores, and agent performance data across multiple departments and locations.  
 
 **Key Variables**:  
@@ -25,7 +25,7 @@
 
 
 
-### **4. Tools and Techniques**  
+## **4. Tools and Techniques**  
 **Tools Used**:  
 - **Power BI**: For creating the interactive dashboard and visualizations.  
 - **Excel**: For initial data cleaning and preparation.  
@@ -37,7 +37,7 @@
 
 
 
-### **5. Approach**  
+## **5. Approach**  
 **Step-by-Step Workflow**:  
 1. **Data Cleaning**: Removed duplicates, handled missing values, and standardized formats for call metrics and feedback scores.  
 2. **Data Aggregation**: Summarized call volumes, unresolved calls, satisfaction ratings by department and location.  
@@ -46,7 +46,7 @@
 
 
 
-### **6. Key Insights from the Dashboard**
+## **6. Key Insights from the Dashboard**
 1. **Call Volume Trends**:
    - Total calls peaked on Sundays.
    - Departments like Television and Air Conditioner received the highest number of calls.
@@ -72,25 +72,25 @@
 **Page 2**
 ![Alt text](Assets/Barclays_Call_Center_DB2.png)
 
-### **7. Impact**
+## **7. Impact**
 - Enabled managers to dynamically monitor customer support performance across multiple dimensions (agent, department, location).  
 - Identified bottlenecks such as high unresolved call rates for targeted interventions.
 - Improved resource allocation by analyzing trends in agent efficiency and customer satisfaction.
 
 
 
-### **8. Challenges Faced**
+## **8. Challenges Faced**
 1. Managing large datasets with inconsistent formats required advanced cleaning techniques in Excel before importing into Power BI.
 2. Designing an intuitive dashboard layout that balances complexity with usability for stakeholders with varying technical expertise.
 
 
 
-### **9. Reflection**
+## **9. Reflection**
 This project strengthened my ability to design interactive dashboards using Power BI while handling multi-dimensional datasets effectively. It showcased my skills in transforming raw data into actionable insights that drive business decisions.
 
 
 
-### **10. Link or Access**
+## **10. Link or Access**
 
 ![Alt text](Assets/Barclays_Customer_Support.pbix)
 
